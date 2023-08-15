@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=find-user&label=Profile%20views&color=0e75b6&style=flat" alt="find-user" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itzaqib24" target="blank"><img src="https://img.shields.io/twitter/follow/itzaqib24?logo=twitter&style=for-the-badge" alt="itzaqib24" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itzaqib248" target="blank"><img src="https://img.shields.io/twitter/follow/itzaqib248?logo=twitter&style=for-the-badge" alt="itzaqib248" /></a> </p>
 
 - 🔭 I’m currently working on [CODSOFT](https://github.com/Find-UseR/CODSOFT)
 
