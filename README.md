@@ -8,15 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/itzaqib248" target="blank"><img src="https://img.shields.io/twitter/follow/itzaqib248?logo=twitter&style=for-the-badge" alt="itzaqib248" /></a> </p>
 
-- 🔭 I’m currently working on [CODSOFT](https://github.com/Find-UseR/CODSOFT)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on [BharatIntern](https://github.com/Find-UseR/BharatIntern)
+- 🌱 I’m currently working **React.js Projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-9x.netlify.app](https://portfolio-9x.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap and Tailwind Css**
+- 💬 Ask me about **HTML, CSS, JS, React-JS Bootstrap and Tailwind Css**
 
 - 📫 How to reach me **aqibmansoor40@gmail.com**
 
