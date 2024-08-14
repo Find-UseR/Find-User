@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-9x.netlify.app](https://portfolio-9x.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, JS, React-JS Bootstrap and Tailwind Css**
+- 💬 Ask me about **HTML, CSS, JS, React-Js, NEXT-Js, Bootstrap and Tailwind Css**
 
 - 📫 How to reach me **aqibmansoor40@gmail.com**
 
